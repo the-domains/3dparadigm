@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[3dparadigm]]></title>
         <description><![CDATA[3dparadigm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/3dparadigm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 02:19:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Dec 2015 02:25:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/3dparadigm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Five things you need to know about the Samsung Gear VR]]></title>
+            <description><![CDATA[<article><h1>Five things you need to know about the Samsung Gear VR</h1><p>Samsung has been working with the biggest name in virtual reality for over two years to bring a little bit of the virtual world to your smartphone, and with the Samsung Gear VR that experience is finally consumer-ready.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/169e760443ac3d3f233139942ac22cf4fdecbfc4.jpg"></article>]]></description>
+            <link>http://www.androidcentral.com/five-things-you-need-know-about-samsung-gear-vr</link>
+            <guid isPermaLink="false">66906c94-a70f-419f-a0ca-577dccac69d5</guid>
+            <pubDate>Fri, 04 Dec 2015 02:25:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Augmented Reality]]></title>
             <description><![CDATA[<h1>Augmented Reality</h1>]]></description>
-            <link>undefinedaugmented-reality/index.html</link>
+            <link>https://thegrid.ai/3dparadigm/augmented-reality/index.html</link>
             <guid isPermaLink="false">5d5f2287-ddec-4b49-b7d2-60f8b58cf7b1</guid>
             <pubDate>Fri, 04 Dec 2015 02:19:28 GMT</pubDate>
         </item>
