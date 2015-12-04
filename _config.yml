@@ -1,7 +1,7 @@
 name: 3dparadigm
 favicon: null
-layout_spectrum: 0.5035751909017563
-typography_spectrum: 0.7928833514451981
+layout_spectrum: 1
+typography_spectrum: 0.8146
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.38542968686670065
-  lightness: 0.03276936570182443
+    - '#a8b6f5'
+    - '#000000'
+    - '#454d6f'
+    - '#828ec3'
+    - '#ecefff'
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0.7422805652022362
   rhythmicContrast: 0.6742665257770568
 purpose: []
