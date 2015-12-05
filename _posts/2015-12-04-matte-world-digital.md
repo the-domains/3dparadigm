@@ -22,12 +22,12 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.matteworld.com/home.html'
 title: Matte World Digital
-datePublished: '2015-12-04T02:43:59.491Z'
-dateModified: '2015-12-04T02:27:23.424Z'
+datePublished: '2015-12-05T12:39:55.187Z'
+dateModified: '2015-12-05T12:39:22.428Z'
 inFeed: true
 hasPage: false
 inNav: false
-starred: true
+starred: false
 authors: []
 sourcePath: _posts/2015-12-04-matte-world-digital.md
 published: true
